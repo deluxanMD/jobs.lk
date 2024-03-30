@@ -1,5 +1,7 @@
 import SamplePage from './SamplePage';
 
 describe('SamplePage', () => {
-  cy.mount(<SamplePage />);
+  it('should render', () => {
+    cy.mount(<SamplePage />);
+  });
 });
