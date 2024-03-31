@@ -9,11 +9,11 @@ import 'simplebar/src/simplebar.css';
 import { Provider as ReduxProvider } from 'react-redux';
 
 // apex-chart
-import 'demo/assets/third-party/apex-chart.css';
+import 'assets/third-party/apex-chart.css';
 
 // project import
 import App from './App';
-import { store } from 'demo/store';
+import { store } from 'store';
 import reportWebVitals from './reportWebVitals';
 
 // ==============================|| MAIN - REACT DOM RENDER  ||============================== //
