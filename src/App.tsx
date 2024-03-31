@@ -1,7 +1,7 @@
 // project import
 import Routes from 'routes';
-import ThemeCustomization from 'themes';
-import ScrollTop from 'components/ScrollTop';
+import ThemeCustomization from 'demo/themes';
+import ScrollTop from 'demo/components/ScrollTop';
 
 // ==============================|| APP - THEME, ROUTER, LOCAL  ||============================== //
 
