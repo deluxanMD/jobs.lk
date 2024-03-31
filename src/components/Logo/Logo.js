@@ -8,7 +8,7 @@ const Logo = () => {
   return (
     <Stack direction="row" alignItems="center" spacing={1}>
       <img src={logo} alt="Mantis" width="30" />
-      <Typography variant="h4">Talento</Typography>
+      <Typography variant="h4">Jobs.lk</Typography>
     </Stack>
   );
 };
